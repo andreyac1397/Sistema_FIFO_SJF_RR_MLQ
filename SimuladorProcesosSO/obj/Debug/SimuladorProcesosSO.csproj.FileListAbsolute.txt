@@ -1,0 +1,40 @@
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.Properties.Resources.resources
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe.config
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\Simulado.68606F23.Up2Date
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.exe
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.FormPrincipal.resources
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe.config
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.pdb
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.AssemblyReference.cache
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.exe.config
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.FormPrincipal.resources
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.Properties.Resources.resources
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.GenerateResource.cache
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\Simulado.68606F23.Up2Date
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.exe
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.pdb
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe.config
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.exe
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO.pdb
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.FormPrincipal.resources
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.Properties.Resources.resources
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.GenerateResource.cache
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\Simulado.68606F23.Up2Date
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.exe
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO\obj\Debug\SimuladorProcesosSO.pdb

@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\bin\Debug\SimuladorProcesosSO_Consola.exe.config
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\bin\Debug\SimuladorProcesosSO_Consola.exe
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\bin\Debug\SimuladorProcesosSO_Consola.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\obj\Debug\SimuladorProcesosSO_Consola.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\obj\Debug\SimuladorProcesosSO_Consola.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\obj\Debug\Simulado.4FCCCDDF.Up2Date
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\obj\Debug\SimuladorProcesosSO_Consola.exe
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_Consola\obj\Debug\SimuladorProcesosSO_Consola.pdb

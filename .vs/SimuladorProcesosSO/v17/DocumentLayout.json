@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|solutionrelative:SimuladorProcesosSO\\FormPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|c:\\users\\andre\\documents\\cuatrimestre_3_2025\\t.i\\arquitectura_sistemas operativos\\proyecto_1\\simuladorprocesosso 1\\simuladorprocesosso\\simuladorprocesosso\\simuladorprocesosso\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|solutionrelative:simuladorprocesosso\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|solutionrelative:SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|solutionrelative:SimuladorProcesosSO_LOGICA\\Proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|solutionrelative:SimuladorProcesosSO_LOGICA\\Simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93FEF7-29E8-4A45-9495-FB0511AD88BB}|SimuladorProcesosSO_LOGICA\\SimuladorProcesosSO_LOGICA.csproj|solutionrelative:SimuladorProcesosSO_LOGICA\\Reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|solutionrelative:SimuladorProcesosSO\\FormPrincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A84546D-4C77-4718-A08F-2FC7E5C66831}|SimuladorProcesosSO\\SimuladorProcesosSO.csproj|solutionrelative:SimuladorProcesosSO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanificadorBase.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs",
+              "RelativeToolTip": "SimuladorProcesosSO_LOGICA\\PlanificadorBase.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv3QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:41:16.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proceso.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Proceso.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO_LOGICA\\Proceso.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Proceso.cs",
+              "RelativeToolTip": "SimuladorProcesosSO_LOGICA\\Proceso.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:40:56.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simulador.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Simulador.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO_LOGICA\\Simulador.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Simulador.cs",
+              "RelativeToolTip": "SimuladorProcesosSO_LOGICA\\Simulador.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAkwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:40:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Reporte.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO_LOGICA\\Reporte.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO_LOGICA\\Reporte.cs",
+              "RelativeToolTip": "SimuladorProcesosSO_LOGICA\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:37:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.cs",
+              "RelativeToolTip": "SimuladorProcesosSO\\FormPrincipal.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAWwN0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:35:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.resx",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO\\FormPrincipal.resx",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.resx",
+              "RelativeToolTip": "SimuladorProcesosSO\\FormPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-30T15:27:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\Program.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\Program.cs",
+              "RelativeToolTip": "SimuladorProcesosSO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:25:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "SimuladorProcesosSO\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\CUATRIMESTRE_3_2025\\T.I\\ARQUITECTURA_SISTEMAS OPERATIVOS\\Proyecto_1\\SimuladorProcesosSO 1\\SimuladorProcesosSO\\SimuladorProcesosSO\\SimuladorProcesosSO\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SimuladorProcesosSO\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:04:25.512Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

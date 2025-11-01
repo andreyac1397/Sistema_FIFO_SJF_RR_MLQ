@@ -1,0 +1,18 @@
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\source\repos\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.AssemblyReference.cache
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\kenda\OneDrive\CUC\Cuatri_5\Ti\Arquitectura\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\bin\Debug\SimuladorProcesosSO_LOGICA.pdb
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.dll
+C:\Users\andre\Documents\CUATRIMESTRE_3_2025\T.I\ARQUITECTURA_SISTEMAS OPERATIVOS\Proyecto_1\SimuladorProcesosSO 1\SimuladorProcesosSO\SimuladorProcesosSO\SimuladorProcesosSO_LOGICA\obj\Debug\SimuladorProcesosSO_LOGICA.pdb
