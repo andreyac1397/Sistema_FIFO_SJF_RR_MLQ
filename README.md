@@ -82,7 +82,7 @@ Ejecutar con F5.
 
 Cargar o digitar los procesos y escoger el algoritmo.
 
-Supuestos usados en el curso
+
 El tiempo se maneja en unidades (no en minutos reales).
 
 Los procesos llegan en el tiempo indicado por el usuario.
@@ -95,6 +95,7 @@ Trabajo académico
 Este proyecto corresponde al proyecto 1 del curso de Arquitectura / Sistemas Operativos y su propósito principal es mostrar y comparar estrategias de planificación, no construir un planificador real del sistema operativo.
 
 Autor
-Andrey Calderón Vega
+Andrey Calderón Vega-https://github.com/andreyac1397
+Kendall Solano Solís-https://github.com/kendalls-s
 
 CUC – Tecnologías de la Información
